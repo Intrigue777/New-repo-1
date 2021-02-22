@@ -7,6 +7,8 @@
     <title>Build to learn</title>
     <link rel="stylesheet" href="style.css">
 
+  
+
     <nav>
 
     
@@ -15,28 +17,40 @@
       <li><a href="contact us.html">Contact Us</a></li>
 
     </ul>
+
+    
+
+    </ul>
     
     </nav>
 
     <img src="Italia.jpg" alt="coffee cup">
 
+    <button type="button">Click Me!</button>
 
-</head>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis, velit?
+
+</head>
+
+
+
+
 
 
 <body>
 
-
+<p1>
     Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore veritatis rerum minima animi, facere error magnam 
+</p1> 
+
 
 
   
 </body>
 </html>
 
-<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, laborum! Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+<p2>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, laborum! Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
 Eveniet sapiente officia distinctio recusandae nostrum tempore vel commodi nulla et cumque.
 
-    <p></p>Lorem ipsum dolor sit amet.
+    </p2>Lorem ipsum dolor sit amet.
 
    <span>People are here</span>
