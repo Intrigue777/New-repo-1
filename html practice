@@ -14,12 +14,15 @@
 
     </ul>
     
-    <!--why cant I change the dimensions of this?-->
+    
 
     </nav>
 
+   <!--how does this make any sense?-->
+        <div class="image">
+             <h1>Chris Ortega, UX</h1>
 
-    <img src="ux pic.png" alt="ux lettering" class="center">
+    <img src="ux lettering.png" alt="ux lettering" class="center">
 
    
 
@@ -29,9 +32,11 @@
 
 
 
-
-
 <body>
+
+    
+
+    </header>
 
 <p1>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore veritatis rerum minima animi, facere error magnam</p1> 
 
@@ -42,6 +47,3 @@ Eveniet sapiente officia distinctio recusandae nostrum tempore vel commodi nulla
   
 </body>
 </html>
-
-
-
