@@ -1,4 +1,4 @@
-center {
+.center {
   display: block;
   margin-left: 100;
   margin-right: auto;
@@ -50,4 +50,4 @@ h1 {
 font-size: 18px;
 font-family: geneva;
 font-weight: 500;
-margin-top: 10%;
+margin-top: 10%;}
