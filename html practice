@@ -7,26 +7,21 @@
     <title>Build to learn</title>
     <link rel="stylesheet" href="style.css">
 
-  
-
     <nav>
-
-    
     <ul>
-    <li><a href="about.html">About</a></li>
-      <li><a href="contact us.html">Contact Us</a></li>
-
-    </ul>
-
-    
+    <li><a href="about.html">about</a></li>
+    <li><a href="projects.html">projects</a></li>
 
     </ul>
     
+    <!--why cant I change the dimensions of this?-->
+
     </nav>
 
-    <img src="Italia.jpg" alt="coffee cup">
 
-    <button type="button">Click Me!</button>
+    <img src="ux pic.png" alt="ux lettering" class="center">
+
+   
 
 
 </head>
@@ -38,19 +33,15 @@
 
 <body>
 
-<p1>
-    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore veritatis rerum minima animi, facere error magnam 
-</p1> 
+<p1>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Labore veritatis rerum minima animi, facere error magnam</p1> 
 
+<p2>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, laborum! Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+Eveniet sapiente officia distinctio recusandae nostrum tempore vel commodi nulla et cumque.Lorem ipsum dolor sit amet. People are here</p2>
 
 
   
 </body>
 </html>
 
-<p2>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque, laborum! Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-Eveniet sapiente officia distinctio recusandae nostrum tempore vel commodi nulla et cumque.
 
-    </p2>Lorem ipsum dolor sit amet.
 
-   <span>People are here</span>
